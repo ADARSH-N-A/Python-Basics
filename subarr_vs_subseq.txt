@@ -1,0 +1,2 @@
+subarray - no skipping of the elements
+subsequence - skipping of elements
